@@ -7,5 +7,5 @@ This program translates English words into Nigerian Languages.
 User selects a language and enters a word
 
 **How to run**
-1. Open folder in PyCharm
+1. Open Code in PyCharm
 2. Run main.py
